@@ -260,7 +260,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
-python-telegram-bot==20.3
-telethon
-pydrive2
